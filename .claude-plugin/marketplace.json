@@ -13,7 +13,7 @@
       "name": "r9r-claude-resources",
       "source": "./",
       "description": "Skills, agents et commandes Claude Code pour le prompt engineering et la productivité",
-      "repository": "https://github.com/r9r-dev/claude-resources",
+      "repository": "https://github.com/ronalove/claude-resources",
       "version": "1.0.0",
       "license": "MIT",
       "author": {
